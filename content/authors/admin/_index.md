@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Robin Strudel
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: ENS Paris - INRIA Willow
+  url: "https://www.di.ens.fr/willow/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+<!-- bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robotics
+- Computer Vision
+- Deep Learning
+- Reinforcement Learning
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Computer Science
+    institution: ENS Paris, INRIA Willow
+    year: 2018
+  - course: MS degree in Mathematics, Vision and Learning (MVA)
+    institution: ENS Paris-Saclay
+    year: 2017
+  - course: Visiting Student Researcher
+    institution: UC Berkeley, Department of Statistics
+    year: 2016
+  - course: MS degree in Probability
+    institution: ENS Lyon
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +49,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:robin.strudel@inria.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rstrudel
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/robin-strudel-53b8a2120/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Robotics and Computer Vision at the [Willow research team](https://www.di.ens.fr/willow/) at INRIA. I am working on learning to perform complex robotic manipulations under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Josef Sivic](https://www.di.ens.fr/~josef/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently using and keenly interested by imitation learning, reinforcement learning, simulation to real world transfer and motion planning.
