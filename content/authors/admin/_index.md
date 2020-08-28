@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Robotics and Computer Vision at the [Willow research team](https://www.di.ens.fr/willow/) at INRIA. I am working on learning to perform complex robotic manipulations under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Josef Sivic](https://www.di.ens.fr/~josef/).
-
-I am currently using and keenly interested by imitation learning, reinforcement learning, simulation to real world transfer and motion planning.
+I am a PhD student in Robotics and Computer Vision at [Ecole Normale Supérieure](https://www.ens.psl.eu/en) and [INRIA Paris](https://www.inria.fr/en/centre-inria-de-paris), working in the [Willow research group](https://www.di.ens.fr/willow/) under the supervision of [Ivan Laptev](https://www.di.ens.fr/~laptev/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Josef Sivic](https://www.di.ens.fr/~josef/). My work focuses on performing complex robotic manipulations task in cluterred environments using computer vision. I am currently using and keenly interested by imitation learning, reinforcement learning, simulation to real world transfer and motion planning.

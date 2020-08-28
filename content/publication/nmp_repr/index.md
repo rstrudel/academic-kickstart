@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Learning to combine primitive skills: A step towards versatile robotic manipulation"
-authors: [Robin Strudel*, Alexander Pashevich*, Igor Kalevatykh, Ivan Laptev, Josef Sivic, Cordelia Schmid]
-date: 2019-08-02T20:00:00+01:00
+title: "Learning Obstacle Representations for Neural Motion Planning"
+authors: [Robin Strudel, Ricardo Garcia, Justin Carpentier, Jean-Paul Laumond, Ivan Laptev, Cordelia Schmid]
+date: 2020-08-02T20:00:00+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-11-25T20:53:24+01:00
+publishDate: 2019-08-02T20:53:24+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In IEEE International Conference on Robotics and Automation (ICRA), 2020"
-publication_short: "ICRA 2020"
+publication: "arXiv preprint"
+publication_short: "arXiv"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "ICRA 2020"
+summary: "arXiv preprint"
 
 tags: []
 categories: []
@@ -34,23 +34,23 @@ featured: false
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
+# Featured image
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/1908.00722
-url_code: https://github.com/rstrudel/rlbc
+url_pdf: https://arxiv.org/abs/2008.11174
+url_code:
 url_dataset:
 url_poster:
-url_project: https://www.di.ens.fr/willow/research/rlbc/
+url_project: https://www.di.ens.fr/willow/research/nmp_repr/
 url_slides:
 url_source:
 url_video: 
 
-# Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Left"
   preview_only: false
 
 # Associated Projects (optional).

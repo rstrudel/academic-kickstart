@@ -22,7 +22,7 @@ publication_short: "IROS 2019"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "IROS 2019"
 
 tags: []
 categories: []
