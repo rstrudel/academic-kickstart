@@ -1,13 +1,10 @@
 // Override this file to add your own SCSS styling.
 
-.ml-3 {
-  width: 30%;
-}
-
 .media.stream-item img {
   max-width: 220px;
   height: auto;
   object-fit: cover;
+  margin-right: 20px;
 }
 
 .media.stream-item .article-title,
