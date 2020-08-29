@@ -25,7 +25,7 @@ interests:
 - Computer Vision
 - Deep Learning
 - Reinforcement Learning
-- Machine Learning
+- Motion Planning
 
 education:
   courses:

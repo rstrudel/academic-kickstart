@@ -26,7 +26,7 @@ summary: "ICRA 2020"
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
