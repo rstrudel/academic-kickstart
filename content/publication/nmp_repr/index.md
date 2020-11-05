@@ -13,16 +13,16 @@ publishDate: 2019-08-02T20:53:24+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint"
-publication_short: "arXiv"
+publication: "In Conference on Robot Learning (CoRL), 2020"
+publication_short: "CoRL 2020"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "arXiv preprint"
+summary: "CoRL 2020"
 
 tags: []
 categories: []
@@ -38,7 +38,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://arxiv.org/abs/2008.11174
-url_code:
+url_code: https://github.com/rstrudel/nmprepr
 url_dataset:
 url_poster:
 url_project: https://www.di.ens.fr/willow/research/nmp_repr/
