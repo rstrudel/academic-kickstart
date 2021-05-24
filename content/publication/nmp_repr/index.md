@@ -3,11 +3,11 @@
 
 title: "Learning Obstacle Representations for Neural Motion Planning"
 authors: [Robin Strudel, Ricardo Garcia, Justin Carpentier, Jean-Paul Laumond, Ivan Laptev, Cordelia Schmid]
-date: 2020-08-02T20:00:00+01:00
+date: 2020-06-06T00:00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-02T20:53:24+01:00
+publishDate: 2020-06-06T00:00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
